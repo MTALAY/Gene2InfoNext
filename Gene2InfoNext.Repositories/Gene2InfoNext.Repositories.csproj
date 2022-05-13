@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gene2InfoNext.Entities\Gene2InfoNext.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
